@@ -1,0 +1,13 @@
+﻿Derleme şu saatte başlatıldı: 22:22...
+1>------ Derleme başladı: Proje: proje, Yapılandırma: Debug Any CPU ------
+1>  proje -> C:\Users\USER\OneDrive\Masaüstü\proje\proje\bin\Debug\proje.exe
+Derleniyor proje...
+2>------ Yayımlama başladı: Proje: proje, Yapılandırma: Debug Any CPU ------
+'C:\Users\USER\OneDrive\Masaüstü\' öğesine bağlanılıyor...
+Dosyalar yayımlanıyor...
+Yayımlama başarılı.
+C:\Users\USER\OneDrive\Masaüstü\
+========== Derleme: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
+========== Derleme şu saatte tamamlandı: 22:22 ve 29,553 saniye sürdü ==========
+========== Yayımlama: 1 başarılı, 0 başarısız, 0 atlandı ==========
+========== Yayımla şu saatte tamamlandı: 22:22 ve 29,553 saniye sürdü ==========
